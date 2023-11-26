@@ -1,0 +1,11 @@
+.sito {
+    color:blue;
+    font-family: Impact;
+    text-align: center;
+}
+body {
+    background-color: grey;
+}
+input {
+    margin-top: 15px;
+}
